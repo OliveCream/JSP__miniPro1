@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+.container-fluid {
+   top:0px;
+   background:url(https://raw.githubusercontent.com/khadkamhn/day-01-login-form/master/img/bg.jpg) no-repeat center;
+   background-size: 100%;
+}
+   
+.navbar {
+    height: 80px; /* 원하는 높이로 조절하세요 */
+}
+    
+.navbar-nav .nav-link {
+     color: white !important; /* 흰색으로 설정, !important는 다른 스타일을 덮어쓰기 위해 사용 */
+}
+
