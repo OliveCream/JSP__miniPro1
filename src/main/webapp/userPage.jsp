@@ -25,28 +25,6 @@
 	
 	User user = null;
 	
-// 	int pagee = 1;
-// 	int limit = 3;
-	
-// 	$('#loadMoreBtn').click(function() {
-// 	     currentPage++;
-	
-// 	     $.ajax({
-// 	         url: 'loadMoreBoards.jsp',  // 데이터를 불러올 서버의 URL
-// 	         type: 'GET',
-// 	         data: {
-// 	             page: currentPage,
-// 	             limit: limit
-// 	         },
-// 	         success: function(data) {
-// 	             $('#boardList').append(data);  // 불러온 데이터를 추가
-// 	         },
-// 	         error: function(xhr, status, error) {
-// 	             console.log("Error: " + error);
-// 	         }
-// 	     });
-// 	});
-	
 	if(!StringUtil.isEmpty(cookieUserId)){
 		logger.debug("[userPage] cookieUserId - " + cookieUserId);
 		
@@ -115,7 +93,7 @@ $(document).ready(function(){
     </div>
     
     
-    <!--------------- 내가쓴 게시물 보기 시작------------------------------------>
+    <!--------------- 내가쓴 게시물 보기 ------------------------------------>
     
     <br /><br /><br /><br />
     <h3>작성한 게시물 보기</h3><br />
@@ -154,10 +132,9 @@ if(list != null && list.size() >0){
 	}
 }	
 %>   
-	<button type="button" id="loadMoreBtn" class="btn btn-secondary">더보기</button>
-<!--    <button type="button" id="btnList" class="btn btn-secondary">리스트</button> -->
-<!--    <button type="button" id="btnUpdate" class="btn btn-secondary">수정</button> -->
-<!--    <button type="button" id="btnDelete" class="btn btn-secondary">삭제</button> -->
+   <button type="button" id="btnList" class="btn btn-secondary">리스트</button>
+   <button type="button" id="btnUpdate" class="btn btn-secondary">수정</button>
+   <button type="button" id="btnDelete" class="btn btn-secondary">삭제</button>
    <br /><br /><br /><br />
 </div>
 
