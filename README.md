@@ -22,12 +22,14 @@
 - **IDE** : STS 3
 - **Database** : Oracle DB(21c)
 - **ORM** : Mybatis
+<br>
 
 ## 📌 주요 기능
 #### 로그인 - <a href="https://github.com/" >상세보기</a>
 - DB값 검증
 - ID찾기, PW찾기
 - 로그인 시 쿠키(Cookie) 생성
+<br>
 
 #### 마이 페이지 
 - 본인 정보 조회 및 회원정보 수정
