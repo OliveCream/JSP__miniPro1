@@ -34,6 +34,7 @@
 #### 마이 페이지 
 - 본인 정보 조회 및 회원정보 수정
 - 본인 게시글 조회
+<br>
 
 ## 웹 이미지
 <img src="https://github.com/user-attachments/assets/0ed48305-9732-47de-9054-d9992e1fc758">
