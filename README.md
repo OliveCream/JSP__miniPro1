@@ -38,8 +38,10 @@
 
 ## 웹 이미지
 <p align="center">
-<img src="https://github.com/user-attachments/assets/0ed48305-9732-47de-9054-d9992e1fc758" align="center" width="45%" height="300px">
-<img src="https://github.com/user-attachments/assets/8fef8c6e-8c9a-4dc5-94ae-e8d7b5010544" align="center" width="45%" height="300px">
+ <img src="https://github.com/user-attachments/assets/0ed48305-9732-47de-9054-d9992e1fc758" align="center" width="45%" height="300px">
+ <img src="https://github.com/user-attachments/assets/8fef8c6e-8c9a-4dc5-94ae-e8d7b5010544" align="center" width="45%" height="300px">
 </p>
-<img src="https://github.com/user-attachments/assets/a82c441e-4e94-4cb1-a551-b61e8616e12f">
-<img src="https://github.com/user-attachments/assets/299ca17a-964f-49e2-b86b-9310de1eaaa7">
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/a82c441e-4e94-4cb1-a551-b61e8616e12f" width="45%" height="300px">
+ <img src="https://github.com/user-attachments/assets/299ca17a-964f-49e2-b86b-9310de1eaaa7" width="45%" height="300px">
+</p>
