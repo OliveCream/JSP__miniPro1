@@ -19,7 +19,7 @@
 ### ⚙️ 개발 환경
 - `Java 8`
 - `JDK 1.8.0`
-- **IDE** : STS 3
+- **IDE** : eclipse
 - **Database** : Oracle DB(21c)
 - **ORM** : Mybatis
 <br>
