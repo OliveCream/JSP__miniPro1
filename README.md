@@ -36,6 +36,12 @@
 - 본인 게시글 조회
 <br>
 
+#### 게시판 
+- 회원만 글작성 가능
+- 본인 글 수정, 삭제
+- 댓글 및 대댓글 
+<br>
+
 ## 웹 이미지
 <p align="center">
  <img src="https://github.com/user-attachments/assets/0ed48305-9732-47de-9054-d9992e1fc758" align="center" width="45%" height="300px">
